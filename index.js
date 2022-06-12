@@ -9,8 +9,8 @@ print (multiply);
 let random = Math.floor(Math.random() * 10);
 
 
-let num3 = 14;
-let num4 = 5;
+let num3 = 30;
+let num4 = 13;
 let mod = num3 % num4;
  print (mod);
 
